@@ -1,0 +1,11 @@
+.encabezados{
+    background-color: rgb(255, 72, 0);
+    text-align: justify;
+    font-size: medium;
+}
+.prueba{
+    background-image:url(jjj.jpeg);
+    height: 300px;
+    width: 200px;
+
+}
